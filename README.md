@@ -1,0 +1,1 @@
+# model-uydu-yer-istasyonu
